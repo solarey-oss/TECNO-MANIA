@@ -1,0 +1,3 @@
+git add pages/index.js
+git commit -m "Aggiungi homepage Tecno-Mania"
+git push
